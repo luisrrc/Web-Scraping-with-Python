@@ -1,0 +1,251 @@
+,Movie Title,Year,Duration,Genre,Rating
+0,The Nightmare Before Christmas,1993,76 min,"Animation, Family, Fantasy            ",8.0
+1,Los Locos Addams,1991,99 min,"Comedy, Fantasy            ",6.9
+2,Blade Runner 2049,2017,164 min,"Action, Drama, Mystery            ",8.0
+3,Harry Potter and the Sorcerer's Stone,2001,152 min,"Adventure, Family, Fantasy            ",7.6
+4,Interstellar,2014,169 min,"Adventure, Drama, Sci-Fi            ",8.6
+5,Knives Out,2019,130 min,"Comedy, Crime, Drama            ",7.9
+6,Six Degrees of Separation,1993,112 min,"Comedy, Drama, Mystery            ",6.8
+7,Los Locos Addams II,1993,94 min,"Comedy, Fantasy            ",6.8
+8,Joker,2019,122 min,"Crime, Drama, Thriller            ",8.4
+9,Once Upon a Time... in Hollywood,2019,161 min,"Comedy, Drama            ",7.6
+10,The Shawshank Redemption,1994,142 min,Drama            ,9.3
+11,Promising Young Woman,2020,113 min,"Crime, Drama, Mystery            ",7.5
+12,Tenet,2020,150 min,"Action, Sci-Fi, Thriller            ",7.4
+13,Drácula,1992,128 min,"Fantasy, Horror            ",7.4
+14,Coco,I 2017,105 min,"Animation, Adventure, Comedy            ",8.4
+15,Avengers: Endgame,2019,181 min,"Action, Adventure, Drama            ",8.4
+16,Spectre,I 2015,148 min,"Action, Adventure, Thriller            ",6.8
+17,Llámame por tu nombre,2017,132 min,"Drama, Romance            ",7.9
+18,Gisaengchung,2019,132 min,"Comedy, Drama, Thriller            ",8.6
+19,The Wolf of Wall Street,2013,180 min,"Biography, Comedy, Crime            ",8.2
+20,Intriga,2013,153 min,"Crime, Drama, Mystery            ",8.1
+21,Batman 2 - El caballero de la noche,2008,152 min,"Action, Crime, Drama            ",9.0
+22,Matrix,1999,136 min,"Action, Sci-Fi            ",8.7
+23,Titanic,1997,194 min,"Drama, Romance            ",7.8
+24,Pulp Fiction,1994,154 min,"Crime, Drama            ",8.9
+25,1917,2019,119 min,"Action, Drama, War            ",8.3
+26,The Lord of the Rings: The Fellowship of the Ring,2001,178 min,"Action, Adventure, Drama            ",8.8
+27,Fight Club,1999,139 min,Drama            ,8.8
+28,Arrival,II 2016,116 min,"Drama, Sci-Fi            ",7.9
+29,Sleepy Hollow,1999,105 min,"Fantasy, Horror, Mystery            ",7.3
+30,Mujercitas,2019,135 min,"Drama, Romance            ",7.8
+31,Corpse Bride,2005,77 min,"Animation, Drama, Family            ",7.3
+32,Get Out,I 2017,104 min,"Horror, Mystery, Thriller            ",7.7
+33,007: Operación Skyfall,2012,143 min,"Action, Adventure, Thriller            ",7.8
+34,Inception,2010,148 min,"Action, Adventure, Sci-Fi            ",8.8
+35,Goodfellas,1990,146 min,"Biography, Crime, Drama            ",8.7
+36,Gladiador,2000,155 min,"Action, Adventure, Drama            ",8.5
+37,Edward Scissorhands,1990,105 min,"Drama, Fantasy, Romance            ",7.9
+38,Harry Potter 7-2,2011,130 min,"Adventure, Fantasy, Mystery            ",8.1
+39,El silencio de los inocentes,1991,118 min,"Crime, Drama, Horror            ",8.6
+40,Nomadland,2020,107 min,Drama            ,7.4
+41,El gran Hotel Budapest,2014,99 min,"Adventure, Comedy, Crime            ",8.1
+42,Suicide Squad,2016,123 min,"Action, Adventure, Fantasy            ",5.9
+43,A Quiet Place,2018,90 min,"Drama, Horror, Sci-Fi            ",7.5
+44,Django Unchained,2012,165 min,"Drama, Western            ",8.4
+45,Inglourious Basterds,2009,153 min,"Adventure, Drama, War            ",8.3
+46,Se7en,1995,127 min,"Crime, Drama, Mystery            ",8.6
+47,Parque Jurásico,1993,127 min,"Action, Adventure, Sci-Fi            ",8.1
+48,Gone Girl,2014,149 min,"Drama, Mystery, Thriller            ",8.1
+49,Harry Potter y el cáliz de fuego,2005,157 min,"Adventure, Family, Fantasy            ",7.7
+50,Home Alone,1990,103 min,"Comedy, Family            ",7.6
+51,Sicario,2015,121 min,"Action, Crime, Drama            ",7.6
+52,The Father,I 2020,97 min,Drama            ,8.3
+53,Prometheus,I 2012,124 min,"Adventure, Mystery, Sci-Fi            ",7.0
+54,Forrest Gump,1994,142 min,"Drama, Romance            ",8.8
+55,Spider-Man,2002,121 min,"Action, Adventure, Sci-Fi            ",7.3
+56,Guardians of the Galaxy,2014,121 min,"Action, Adventure, Comedy            ",8.0
+57,Jojo Rabbit,2019,108 min,"Comedy, Drama, War            ",7.9
+58,Ready Player One,2018,140 min,"Action, Adventure, Sci-Fi            ",7.4
+59,Coraline,2009,100 min,"Animation, Drama, Family            ",7.7
+60,El gran truco,2006,130 min,"Drama, Mystery, Sci-Fi            ",8.5
+61,Orgullo y prejuicio,2005,129 min,"Drama, Romance            ",7.8
+62,Avengers: Infinity War,2018,149 min,"Action, Adventure, Sci-Fi            ",8.4
+63,Avatar,2009,162 min,"Action, Adventure, Fantasy            ",7.8
+64,Belleza americana,1999,122 min,Drama            ,8.3
+65,Baby Driver,2017,113 min,"Action, Crime, Drama            ",7.6
+66,Incendies,2010,131 min,"Drama, Mystery, War            ",8.3
+67,The Greatest Showman,2017,105 min,"Biography, Drama, Musical            ",7.6
+68,Mad Max: Fury Road,2015,120 min,"Action, Adventure, Sci-Fi            ",8.1
+69,Sin lugar para los débiles,2007,122 min,"Crime, Drama, Thriller            ",8.1
+70,Star Wars: Episode IX - The Rise of Skywalker,2019,141 min,"Action, Adventure, Fantasy            ",6.5
+71,Dunkirk,2017,106 min,"Action, Drama, History            ",7.8
+72,The Fifth Element,1997,126 min,"Action, Adventure, Sci-Fi            ",7.7
+73,Harry Potter and the Prisoner of Azkaban,2004,142 min,"Adventure, Family, Fantasy            ",7.9
+74,The Mummy,1999,124 min,"Action, Adventure, Fantasy            ",7.0
+75,Saving Private Ryan,1998,169 min,"Drama, War            ",8.6
+76,Infiltrados,2006,151 min,"Crime, Drama, Thriller            ",8.5
+77,Schindler's List,1993,195 min,"Biography, Drama, History            ",8.9
+78,Fifty Shades of Grey,2015,125 min,"Drama, Romance, Thriller            ",4.1
+79,Troya,2004,163 min,"Drama, History            ",7.3
+80,Lady Bird,2017,94 min,"Comedy, Drama            ",7.4
+81,Bombshell,I 2019,109 min,"Biography, Drama            ",6.8
+82,Harry Potter and the Deathly Hallows: Part 1,2010,146 min,"Adventure, Fantasy, Mystery            ",7.7
+83,American Gangster,2007,157 min,"Biography, Crime, Drama            ",7.8
+84,Monster house - La casa de los sustos,2006,91 min,"Animation, Comedy, Family            ",6.6
+85,Requiem for a Dream,2000,102 min,Drama            ,8.3
+86,Harry Potter y el misterio del príncipe,2009,153 min,"Action, Adventure, Family            ",7.6
+87,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143 min,"Action, Adventure, Fantasy            ",8.0
+88,El cisne negro,2010,108 min,"Drama, Thriller            ",8.0
+89,El gran Gatsby,2013,143 min,"Drama, Romance            ",7.2
+90,Romeo + Juliet,1996,120 min,"Drama, Romance            ",6.7
+91,El juego de la fortuna,2011,133 min,"Biography, Drama, Sport            ",7.6
+92,Whiplash: Música y obsesión,2014,106 min,"Drama, Music            ",8.5
+93,Bohemian Rhapsody,2018,134 min,"Biography, Drama, Music            ",7.9
+94,El sexto sentido,1999,107 min,"Drama, Mystery, Thriller            ",8.1
+95,Nightcrawler,2014,117 min,"Crime, Drama, Thriller            ",7.8
+96,Catch Me If You Can,2002,141 min,"Biography, Crime, Drama            ",8.1
+97,Spider-Man: Into the Spider-Verse,2018,117 min,"Animation, Action, Adventure            ",8.4
+98,Emma.,2020,124 min,"Comedy, Drama, Romance            ",6.7
+99,Good Will Hunting,1997,126 min,"Drama, Romance            ",8.3
+100,Animales nocturnos,2016,116 min,"Drama, Thriller            ",7.5
+101,Black Panther,2018,134 min,"Action, Adventure, Sci-Fi            ",7.3
+102,News of the World,2020,118 min,"Action, Adventure, Drama            ",6.8
+103,The Girl with the Dragon Tattoo,2011,158 min,"Crime, Drama, Mystery            ",7.8
+104,The Lord of the Rings: The Return of the King,2003,201 min,"Action, Adventure, Drama            ",8.9
+105,Los Ángeles al desnudo,1997,138 min,"Crime, Drama, Mystery            ",8.2
+106,Ex Machina,2014,108 min,"Drama, Sci-Fi, Thriller            ",7.7
+107,La gran apuesta,2015,130 min,"Biography, Comedy, Drama            ",7.8
+108,Un reino bajo la luna,2012,94 min,"Comedy, Drama, Romance            ",7.8
+109,Eternal Sunshine of the Spotless Mind,2004,108 min,"Drama, Romance, Sci-Fi            ",8.3
+110,Hacksaw Ridge,2016,139 min,"Biography, Drama, History            ",8.1
+111,The Village,2004,108 min,"Drama, Mystery, Thriller            ",6.5
+112,The Irishman,2019,209 min,"Biography, Crime, Drama            ",7.8
+113,Transformers,2007,144 min,"Action, Adventure, Sci-Fi            ",7.0
+114,Con Air,1997,115 min,"Action, Crime, Thriller            ",6.9
+115,Iron man - El hombre de hierro,2008,126 min,"Action, Adventure, Sci-Fi            ",7.9
+116,Interview with the Vampire: The Vampire Chronicles,1994,123 min,"Drama, Fantasy, Horror            ",7.5
+117,The Avengers,2012,143 min,"Action, Adventure, Sci-Fi            ",8.0
+118,Atonement,2007,123 min,"Drama, Mystery, Romance            ",7.8
+119,The Revenant,2015,156 min,"Action, Adventure, Drama            ",8.0
+120,The Green Mile,1999,189 min,"Crime, Drama, Fantasy            ",8.6
+121,The Hobbit: An Unexpected Journey,2012,169 min,"Adventure, Fantasy            ",7.8
+122,Unfaithful,2002,124 min,"Drama, Romance, Thriller            ",6.7
+123,Dia de la independencia,1996,145 min,"Action, Adventure, Sci-Fi            ",7.0
+124,Fantastic Mr. Fox,2009,87 min,"Animation, Adventure, Comedy            ",7.9
+125,The Royal Tenenbaums,2001,110 min,"Comedy, Drama            ",7.6
+126,There Will Be Blood,2007,158 min,Drama            ,8.2
+127,Batman inicia,2005,140 min,"Action, Adventure            ",8.2
+128,Maleficent,2014,97 min,"Action, Adventure, Family            ",7.0
+129,Mulholland Dr.,2001,147 min,"Drama, Mystery, Thriller            ",7.9
+130,Zootopia,2016,108 min,"Animation, Adventure, Comedy            ",8.0
+131,Fantastic Beasts and Where to Find Them,2016,132 min,"Adventure, Family, Fantasy            ",7.3
+132,Guardians of the Galaxy Vol. 2,2017,136 min,"Action, Adventure, Comedy            ",7.6
+133,Corazón valiente,1995,178 min,"Biography, Drama, History            ",8.3
+134,El viaje de Chihiro,2001,125 min,"Animation, Adventure, Family            ",8.6
+135,Logan,2017,137 min,"Action, Drama, Sci-Fi            ",8.1
+136,La guerra de las galaxias: Episodio I - La amenaza fantasma,1999,136 min,"Action, Adventure, Fantasy            ",6.5
+137,Red social,2010,120 min,"Biography, Drama            ",7.7
+138,Doctor Strange,2016,115 min,"Action, Adventure, Fantasy            ",7.5
+139,Charlie y la fábrica de chocolate,2005,115 min,"Adventure, Comedy, Family            ",6.6
+140,Drive,I 2011,100 min,"Action, Drama            ",7.8
+141,Almost Famous,2000,122 min,"Adventure, Comedy, Drama            ",7.9
+142,Moana,I 2016,107 min,"Animation, Adventure, Comedy            ",7.6
+143,Soul,2020,100 min,"Animation, Adventure, Comedy            ",8.1
+144,Spider-Man 2,2004,127 min,"Action, Adventure, Sci-Fi            ",7.3
+145,Memento,2000,113 min,"Mystery, Thriller            ",8.4
+146,Minari,2020,115 min,Drama            ,7.5
+147,The Usual Suspects,1995,106 min,"Crime, Drama, Mystery            ",8.5
+148,Ghost,1990,127 min,"Drama, Fantasy, Romance            ",7.1
+149,Cast Away,2000,143 min,"Adventure, Drama, Romance            ",7.8
+150,El señor de los anillos: Las dos torres,2002,179 min,"Action, Adventure, Drama            ",8.7
+151,The Rock,1996,136 min,"Action, Adventure, Thriller            ",7.4
+152,Noches de placer,1997,155 min,Drama            ,7.9
+153,The Hateful Eight,2015,168 min,"Crime, Drama, Mystery            ",7.8
+154,Terminator 2: Judgment Day,1991,137 min,"Action, Sci-Fi            ",8.5
+155,La La Land: Ciudad de Sueños,2016,128 min,"Comedy, Drama, Music            ",8.0
+156,Mujer bonita,1990,119 min,"Comedy, Romance            ",7.1
+157,Sweeney Todd - El barbero demoníaco de la calle Fleet,2007,116 min,"Drama, Horror, Musical            ",7.3
+158,Toy Story,1995,81 min,"Animation, Adventure, Comedy            ",8.3
+159,Argo,2012,120 min,"Biography, Drama, Thriller            ",7.7
+160,Ella,2013,126 min,"Drama, Romance, Sci-Fi            ",8.0
+161,Star Trek - Viaje a las estrellas,2009,127 min,"Action, Adventure, Sci-Fi            ",7.9
+162,Green Book: Una amistad sin fronteras,2018,130 min,"Biography, Comedy, Drama            ",8.2
+163,The Pianist,2002,150 min,"Biography, Drama, Music            ",8.5
+164,Malèna,2000,108 min,"Comedy, Drama, Romance            ",7.5
+165,Ad Astra,2019,123 min,"Adventure, Drama, Mystery            ",6.5
+166,The Martian,2015,144 min,"Adventure, Drama, Sci-Fi            ",8.0
+167,La forma del agua,2017,123 min,"Adventure, Drama, Fantasy            ",7.3
+168,The Mask,1994,101 min,"Action, Comedy, Crime            ",6.9
+169,"Three Billboards Outside Ebbing, Missouri",2017,115 min,"Comedy, Crime, Drama            ",8.1
+170,The Lion King,1994,88 min,"Animation, Adventure, Drama            ",8.5
+171,Rocketman,I 2019,121 min,"Biography, Drama, Musical            ",7.3
+172,Fargo,1996,98 min,"Crime, Drama, Thriller            ",8.1
+173,Love and Monsters,I 2020,109 min,"Action, Adventure, Comedy            ",7.0
+174,Iron Man Three,2013,130 min,"Action, Adventure, Sci-Fi            ",7.1
+175,The Hobbit: The Desolation of Smaug,2013,161 min,"Adventure, Fantasy            ",7.8
+176,The Town,2010,125 min,"Crime, Drama, Thriller            ",7.5
+177,Into the Wild,2007,148 min,"Adventure, Biography, Drama            ",8.1
+178,Rogue One,2016,133 min,"Action, Adventure, Sci-Fi            ",7.8
+179,"Monsters, Inc.",2001,92 min,"Animation, Adventure, Comedy            ",8.1
+180,Greyhound,2020,91 min,"Action, Drama, History            ",7.0
+181,Jagten,2012,115 min,Drama            ,8.3
+182,What's Eating Gilbert Grape,1993,118 min,Drama            ,7.7
+183,Cars,2006,117 min,"Animation, Adventure, Comedy            ",7.1
+184,"Las crónicas de Narnia - El león, la bruja y el ropero",2005,143 min,"Adventure, Family, Fantasy            ",6.9
+185,Frozen,I 2013,102 min,"Animation, Adventure, Comedy            ",7.4
+186,Ford v Ferrari,2019,152 min,"Action, Biography, Drama            ",8.1
+187,Star Wars: Episode VIII - The Last Jedi,2017,152 min,"Action, Adventure, Fantasy            ",6.9
+188,Death Becomes Her,1992,104 min,"Comedy, Fantasy, Horror            ",6.6
+189,Sleepers,1996,147 min,"Crime, Drama, Thriller            ",7.6
+190,Black Hawk Down,2001,144 min,"Drama, History, War            ",7.7
+191,La langosta,2015,119 min,"Comedy, Drama, Romance            ",7.2
+192,Mulan,2020,115 min,"Action, Adventure, Drama            ",5.7
+193,Toy Story 4,2019,100 min,"Animation, Adventure, Comedy            ",7.7
+194,The Truman Show,1998,103 min,"Comedy, Drama            ",8.1
+195,La vita è bella,1997,116 min,"Comedy, Drama, Romance            ",8.6
+196,The Incredibles,2004,115 min,"Animation, Action, Adventure            ",8.0
+197,Beauty and the Beast,I 2017,129 min,"Adventure, Family, Fantasy            ",7.1
+198,Men in Black,1997,98 min,"Action, Adventure, Comedy            ",7.3
+199,Cinderella,I 2015,105 min,"Adventure, Drama, Family            ",6.9
+200,El código Enigma,2014,114 min,"Biography, Drama, Thriller            ",8.0
+201,Intensa Mente,I 2015,95 min,"Animation, Adventure, Comedy            ",8.1
+202,Isle of Dogs,2018,101 min,"Animation, Adventure, Comedy            ",7.9
+203,Mystic River,2003,138 min,"Crime, Drama, Mystery            ",7.9
+204,Marriage Story,2019,137 min,"Comedy, Drama, Romance            ",7.9
+205,The Hobbit: The Battle of the Five Armies,2014,144 min,"Adventure, Fantasy            ",7.4
+206,Nace una estrella,2018,136 min,"Drama, Music, Romance            ",7.6
+207,A Beautiful Mind,2001,135 min,"Biography, Drama            ",8.2
+208,American History X,1998,119 min,Drama            ,8.5
+209,Alicia en el país de las maravillas,I 2010,108 min,"Adventure, Family, Fantasy            ",6.4
+210,Les Misérables,2012,158 min,"Drama, Musical, Romance            ",7.6
+211,Pequeña Miss Sunshine,2006,101 min,"Comedy, Drama            ",7.8
+212,A Beautiful Day in the Neighborhood,2019,109 min,"Biography, Drama            ",7.3
+213,Ratatouille,2007,111 min,"Animation, Adventure, Comedy            ",8.0
+214,Begin Again,II 2013,104 min,"Comedy, Drama, Music            ",7.4
+215,ParaNorman,2012,92 min,"Animation, Adventure, Comedy            ",7.0
+216,La guerra de las galaxias: Episodio II - El ataque de los clones,2002,142 min,"Action, Adventure, Fantasy            ",6.5
+217,The Talented Mr. Ripley,1999,139 min,"Crime, Drama, Thriller            ",7.4
+218,El secreto de la montaña,2005,134 min,"Drama, Romance            ",7.7
+219,Harriet,I 2019,125 min,"Action, Biography, Drama            ",6.6
+220,Frankenweenie,2012,87 min,"Animation, Comedy, Drama            ",6.9
+221,Captain Fantastic,2016,118 min,"Comedy, Drama            ",7.9
+222,Trainspotting,1996,93 min,Drama            ,8.1
+223,Batman eternamente,1995,121 min,"Action, Adventure            ",5.4
+224,Star Wars: Episode VII - The Force Awakens,2015,138 min,"Action, Adventure, Sci-Fi            ",7.8
+225,Los juegos del destino,2012,122 min,"Comedy, Drama, Romance            ",7.7
+226,Monster,2003,109 min,"Biography, Crime, Drama            ",7.3
+227,Hook,1991,142 min,"Adventure, Comedy, Family            ",6.8
+228,Hércules,1997,93 min,"Animation, Adventure, Comedy            ",7.3
+229,Children of Men,2006,109 min,"Action, Drama, Sci-Fi            ",7.9
+230,En primera plana,I 2015,129 min,"Biography, Crime, Drama            ",8.1
+231,The Trial of the Chicago 7,2020,129 min,"Drama, History, Thriller            ",7.8
+232,The Lion King,2019,118 min,"Animation, Adventure, Drama            ",6.8
+233,Eso que tú haces,1996,108 min,"Comedy, Drama, Music            ",6.9
+234,"Girl, Interrupted",1999,127 min,"Biography, Drama            ",7.3
+235,Escándalo americano,2013,138 min,"Crime, Drama            ",7.2
+236,El club de los desahuciados,2013,117 min,"Biography, Drama            ",8.0
+237,Solo: A Star Wars Story,2018,135 min,"Action, Adventure, Sci-Fi            ",6.9
+238,Shrek,2001,90 min,"Animation, Adventure, Comedy            ",7.9
+239,The Blind Side,2009,129 min,"Biography, Drama, Sport            ",7.6
+240,Batman regresa,1992,126 min,"Action, Crime, Fantasy            ",7.0
+241,Star Trek 2,2013,132 min,"Action, Adventure, Sci-Fi            ",7.7
+242,Molly's Game,2017,140 min,"Biography, Crime, Drama            ",7.4
+243,El vengador del futuro,1990,113 min,"Action, Sci-Fi, Thriller            ",7.5
+244,Miseria,1990,107 min,"Drama, Thriller            ",7.8
+245,Richard Jewell,2019,131 min,"Biography, Crime, Drama            ",7.5
+246,El padrino III,1990,162 min,"Crime, Drama            ",7.6
+247,Papá por siempre,1993,125 min,"Comedy, Drama, Family            ",7.0
+248,The Lovely Bones,2009,135 min,"Drama, Fantasy, Thriller            ",6.7
+249,Bridesmaids,I 2011,125 min,"Comedy, Romance            ",6.8
